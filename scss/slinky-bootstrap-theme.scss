@@ -85,7 +85,7 @@
 
     width: 100%;
 
-    .list-unstyled;
+    @extend .list-unstyled;
   }
   
   li ul {
